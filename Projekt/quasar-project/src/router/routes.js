@@ -13,8 +13,8 @@ const routes = [
   {
     path: '/:catchAll(.*)*',
     component: () => import('pages/ErrorNotFound.vue'),
-    path: '/biljka',
-    component: () => import('src/pages/BiljkaKolokvij.vue')
+    path: '/BiljkaKolokvij',
+    component: () => import('pages/BiljkaKolokvij.vue')
 
     
   }
