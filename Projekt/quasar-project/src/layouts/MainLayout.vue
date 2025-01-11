@@ -56,9 +56,9 @@ defineOptions({
 const linksList = [
 {
     title: 'Biljke',
-    caption: 'quasar.dev',
+    caption: 'Stranica biljke',
     icon: 'biljka',
-    link: 'https://quasar.dev'
+    link: 'http://localhost:9000/#/biljka'
   },
   {
     title: 'Docs',
