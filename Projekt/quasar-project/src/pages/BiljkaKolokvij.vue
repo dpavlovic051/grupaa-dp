@@ -4,8 +4,8 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: "BiljkaKolokvij",
-};
+<script setup>
+defineOptions({
+  name: "IndexPage",
+});
 </script>
